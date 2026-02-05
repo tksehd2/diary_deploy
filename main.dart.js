@@ -31092,7 +31092,7 @@ f=A.b([],g)
 for(p=0;p<3;++p){o=a[p]
 n=o.a
 f.push("- \uc9c8\ubb38: "+o.c+"\n  \uc120\ud0dd: "+A.m(b.h(0,n))+"\n  \uba54\ubaa8: "+A.m(c.h(0,n)))}m=B.b.bM(f,"\n")
-n=new A.aim("AIzaSyCNEiF7A0QnFe3i1-r_qB-JoGxrciOv1_E",null)
+n=new A.aim("AIzaSyC_HPPelQWujLhtsodoUD5vae-uAZM18Nw",null)
 l=A.b8G("https","generativelanguage.googleapis.com","v1beta",null)
 k=A.b2m("gemini-2.5-flash")
 j=new A.ahf(k,B.Xn,null,null,n,l,null,null).adl(A.b([new A.oj("user",A.b([new A.kx("        \ub108\ub294 \uac10\uc131\uc801\uc778 \uc5d0\uc138\uc774 \uc791\uac00\uc774\uc790 \uc2ec\ub9ac \uc0c1\ub2f4\uac00\uc57c. \n        \uc0ac\uc6a9\uc790\uc758 \ud558\ub8e8 \uae30\ub85d\uc744 \ubcf4\uace0 \uba4b\uc9c4 \uc77c\uae30\uc640 \ucf54\uba58\ud2b8\ub97c JSON \ud615\uc2dd\uc73c\ub85c \uc791\uc131\ud574\uc918.\n        \n        [\uc0ac\uc6a9\uc790 \uae30\ub85d]\n        "+m+'\n\n        [\uc870\uac74]\n        1. \uc77c\uae30\ub294 1\uc778\uce6d \uc2dc\uc810("\ub098\ub294...")\uc73c\ub85c, \uacfc\uac70\ud615\uc744 \uc0ac\uc6a9\ud574.\n        2. \ub0b4\uc6a9\uc740 3~5\ubb38\uc7a5\uc73c\ub85c \uac10\uc131\uc801\uc73c\ub85c \uc791\uc131\ud574.\n        3. \ucf54\uba58\ud2b8\ub294 \uc874\ub313\ub9d0\ub85c \ub530\ub73b\ud55c \uc704\ub85c\ub098 \uc751\uc6d0\uc744 \ud574\uc918.\n        4. \uc751\ub2f5\uc740 \uc624\uc9c1 JSON \ud3ec\ub9f7\uc73c\ub85c\ub9cc \ud574\uc918. (Markdown \ucf54\ub4dc \ube14\ub7ed \uc0ac\uc6a9 \uae08\uc9c0)\n\n        [\ucd9c\ub825 \ud3ec\ub9f7 \uc608\uc2dc]\n        {\n          "title": "\uc81c\ubaa9",\n          "content": "\ubcf8\ubb38 \ub0b4\uc6a9...",\n          "emoji": "\ud83d\ude0a",\n          "comment": "\ucf54\uba58\ud2b8 \ub0b4\uc6a9..."\n        }\n      ')],t.Uz))],t.uq),null,null,null,null)
